@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Install Node modules.
+Install dependencies.
 
 `npm i`
 
